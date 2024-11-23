@@ -1,0 +1,1 @@
+{"name":"Local: practice_problem_3","url":"e:\\phitron\\weak 0\\module_2.5\\practice_problem_3.c","tests":[{"id":1720460950300,"input":"10","output":"even"},{"id":1720461099474,"input":"3","output":"odd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\phitron\\weak 0\\module_2.5\\practice_problem_3.c","group":"local","local":true}
